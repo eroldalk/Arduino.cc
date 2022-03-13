@@ -1,0 +1,52 @@
+#include <LCD5110_Graph.h>
+
+LCD5110 myGLCD(8, 9, 10, 11, 12);
+
+extern uint8_t SmallFont[];
+extern uint8_t arduino_logo[];
+
+void setup()
+{
+  myGLCD.InitLCD();
+  myGLCD.setFont(SmallFont);
+}
+
+void loop()
+{
+  myGLCD.clrScr();
+  myGLCD.drawBitmap(0, 0, arduino_logo, 84, 48);
+  myGLCD.update();
+
+  delay(2000);
+
+  myGLCD.clrScr();
+  myGLCD.print("Lezzetli", CENTER, 0);
+  myGLCD.print("Robot", CENTER, 16);
+  myGLCD.print("Tarifleri", CENTER, 40);
+  delay(2000);
+}
+
+
+
+
+#include <LCD5110_Basic.h>
+
+LCD5110 myGLCD(8, 9, 10, 11, 12);
+
+extern uint8_t qr[];
+
+void setup()
+{
+  myGLCD.InitLCD();
+  myGLCD.setContrast(70);
+}
+
+void loop()
+{
+  
+  myGLCD.drawBitmap(0, 0, qr, 46, 48);
+  
+}
+
+
+
