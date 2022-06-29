@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Arduino_Blink\Arduino_Blink\bin\Debug\Arduino_Blink.exe.config
+C:\Users\Lenovo\Desktop\Arduino_Blink\Arduino_Blink\bin\Debug\Arduino_Blink.exe
+C:\Users\Lenovo\Desktop\Arduino_Blink\Arduino_Blink\bin\Debug\Arduino_Blink.pdb
+C:\Users\Lenovo\Desktop\Arduino_Blink\Arduino_Blink\obj\Debug\Arduino_Blink.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Arduino_Blink\Arduino_Blink\obj\Debug\Arduino_Blink.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Arduino_Blink\Arduino_Blink\obj\Debug\Arduino_Blink.Form1.resources
+C:\Users\Lenovo\Desktop\Arduino_Blink\Arduino_Blink\obj\Debug\Arduino_Blink.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Arduino_Blink\Arduino_Blink\obj\Debug\Arduino_Blink.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Arduino_Blink\Arduino_Blink\obj\Debug\Arduino_Blink.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Arduino_Blink\Arduino_Blink\obj\Debug\Arduino_Blink.exe
+C:\Users\Lenovo\Desktop\Arduino_Blink\Arduino_Blink\obj\Debug\Arduino_Blink.pdb

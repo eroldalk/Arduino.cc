@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dedb4847-767d-44f2-85b5-ccb1a0c2f1f7": {
+      "ProjectGuid": "dedb4847-767d-44f2-85b5-ccb1a0c2f1f7",
+      "DisplayName": "Arduino_Blink",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
