@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Arduino_Ldr\Arduino_Ldr\obj\Debug\Arduino_Ldr.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Arduino_Ldr\Arduino_Ldr\obj\Debug\Arduino_Ldr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Arduino_Ldr\Arduino_Ldr\obj\Debug\Arduino_Ldr.Form1.resources
+C:\Users\Lenovo\Desktop\Arduino_Ldr\Arduino_Ldr\obj\Debug\Arduino_Ldr.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Arduino_Ldr\Arduino_Ldr\obj\Debug\Arduino_Ldr.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Arduino_Ldr\Arduino_Ldr\obj\Debug\Arduino_Ldr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Arduino_Ldr\Arduino_Ldr\bin\Debug\Arduino_Ldr.exe.config
+C:\Users\Lenovo\Desktop\Arduino_Ldr\Arduino_Ldr\bin\Debug\Arduino_Ldr.exe
+C:\Users\Lenovo\Desktop\Arduino_Ldr\Arduino_Ldr\bin\Debug\Arduino_Ldr.pdb
+C:\Users\Lenovo\Desktop\Arduino_Ldr\Arduino_Ldr\obj\Debug\Arduino_Ldr.exe
+C:\Users\Lenovo\Desktop\Arduino_Ldr\Arduino_Ldr\obj\Debug\Arduino_Ldr.pdb
