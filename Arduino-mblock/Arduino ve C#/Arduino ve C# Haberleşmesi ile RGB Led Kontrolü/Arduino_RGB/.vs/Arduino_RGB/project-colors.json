@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee963f53-6640-45f6-97c3-be8158e0463e": {
+      "ProjectGuid": "ee963f53-6640-45f6-97c3-be8158e0463e",
+      "DisplayName": "Arduino_RGB",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

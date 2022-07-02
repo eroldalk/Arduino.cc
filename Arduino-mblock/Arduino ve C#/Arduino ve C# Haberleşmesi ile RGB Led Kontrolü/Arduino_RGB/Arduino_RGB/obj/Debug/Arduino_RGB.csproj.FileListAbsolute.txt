@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Arduino_RGB\Arduino_RGB\obj\Debug\Arduino_RGB.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Arduino_RGB\Arduino_RGB\obj\Debug\Arduino_RGB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Arduino_RGB\Arduino_RGB\obj\Debug\Arduino_RGB.Form1.resources
+C:\Users\Lenovo\Desktop\Arduino_RGB\Arduino_RGB\obj\Debug\Arduino_RGB.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Arduino_RGB\Arduino_RGB\obj\Debug\Arduino_RGB.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Arduino_RGB\Arduino_RGB\obj\Debug\Arduino_RGB.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Arduino_RGB\Arduino_RGB\bin\Debug\Arduino_RGB.exe.config
+C:\Users\Lenovo\Desktop\Arduino_RGB\Arduino_RGB\bin\Debug\Arduino_RGB.exe
+C:\Users\Lenovo\Desktop\Arduino_RGB\Arduino_RGB\bin\Debug\Arduino_RGB.pdb
+C:\Users\Lenovo\Desktop\Arduino_RGB\Arduino_RGB\obj\Debug\Arduino_RGB.exe
+C:\Users\Lenovo\Desktop\Arduino_RGB\Arduino_RGB\obj\Debug\Arduino_RGB.pdb
